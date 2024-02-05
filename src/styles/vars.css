@@ -1,0 +1,14 @@
+
+:root {
+    /*font*/
+    --font-dm-sans: "DM Sans", sans-serif;
+
+    /*colors*/
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(0,0,0,7);
+    --std-color-bg-sidebar: #121212;
+    --std-color-sidebar-text: #b3b3b3;
+    --std-color-bg-sidebar-ligther: #232323;
+    --std-color-buttons: #ffffff;
+    
+}
